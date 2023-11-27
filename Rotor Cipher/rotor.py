@@ -1,4 +1,4 @@
-# ----------------- Enigma Settings -----------------
+# ----------------- Rotor Settings -----------------
 rotors = ("I","II","III")
 reflector = "UKW-B"
 ringSettings ="ABC"
